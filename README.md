@@ -1,1 +1,1 @@
-# take-home-task-3967
+To run this code from terminal: python app.py
